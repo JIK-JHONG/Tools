@@ -14,7 +14,7 @@ The basic role is in printf, which can realize "color standard" to improve the r
 
 # Using Method
 
-**<color> + " Your Text " + RESET**
+**<your_color> + " Your Text " + RESET**
 
 printf("Plot saved as "<color>"'dynamic_plot.png'"RESET"\n");
 
