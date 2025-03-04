@@ -16,7 +16,7 @@ The basic role is in printf, which can realize "color standard" to improve the r
 
 **<your_color> + " Your Text " + RESET**
 
-printf("Plot saved as "<color>"'dynamic_plot.png'"RESET"\n");
+printf("Hello "<color>"'World'"RESET"\n");
 
 
 # COLOR_DEFINITIONS_H 
