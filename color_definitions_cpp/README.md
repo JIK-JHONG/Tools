@@ -10,7 +10,7 @@ The basic role is in printf, which can realize "color standard" to improve the r
 
 
 # include color set file - color_definitions.h
-#include "<path>>color_definitions.h"
+#include "<your_file_path>>color_definitions.h"
 
 # Using Method
 
